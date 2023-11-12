@@ -1,0 +1,23 @@
+{
+    "Tests":{
+        "test1":[
+            {
+                "TestLabel":"asds34+=",
+                "version":"1.0.0",
+                "minAppVersion":"1.0.0",
+                "path":"test1",
+                "icon":"as.jpg"
+            },
+        ],
+        "test6":[
+            {
+                "TestLabel":"asds34+=",
+                "version":"1.0.0",
+                "minAppVersion":"1.0.0",
+                "path":"test1",
+                "icon":"as.jpg"
+            }
+        ]
+    },
+    "IconePath":"icons/",
+}
