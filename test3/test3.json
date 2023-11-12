@@ -1,0 +1,156 @@
+{
+    "TestName": "test3",
+    "Version": "1.0.0",
+    "TestDescription": "asdasd asdasd asdasds asdasd asdas dasd",
+    "IconPath": "iq.png",
+    "LabelBackground": {
+      "Type": "color",
+      "Value": "#fcba03"
+    },
+    "LabelTextColor": {
+      "Value": "#302f2c"
+    },
+    "TestBackground": {
+      "Type": "color",
+      "Value": "#70c0cc"
+    },
+    "TestTime": 10,
+    "Queries": [
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your name?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "My name is John"
+          },
+          {
+            "Type": "Text",
+            "Value": "My name is Mary"
+          }
+        ],
+        "CorrectAnswer": 0
+      },
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your age?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "I am 20 years old"
+          },
+          {
+            "Type": "Text",
+            "Value": "I am 30 years old"
+          }
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your name?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "My name is John"
+          },
+          {
+            "Type": "Text",
+            "Value": "My name is Mary"
+          }
+        ],
+        "CorrectAnswer": 0
+      },
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your age?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "I am 20 years old"
+          },
+          {
+            "Type": "Text",
+            "Value": "I am 30 years old"
+          }
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your name?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "My name is John"
+          },
+          {
+            "Type": "Text",
+            "Value": "My name is Mary"
+          }
+        ],
+        "CorrectAnswer": 0
+      },
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your age?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "I am 20 years old"
+          },
+          {
+            "Type": "Text",
+            "Value": "I am 30 years old"
+          }
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your name?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "My name is John"
+          },
+          {
+            "Type": "Text",
+            "Value": "My name is Mary"
+          }
+        ],
+        "CorrectAnswer": 0
+      },
+      {
+        "Question": {
+          "Type": "Text",
+          "Value": "What is your age?"
+        },
+        "Answers": [
+          {
+            "Type": "Text",
+            "Value": "I am 20 years old"
+          },
+          {
+            "Type": "Text",
+            "Value": "I am 30 years old"
+          }
+        ],
+        "CorrectAnswer": 1
+      }
+    ]
+  }
