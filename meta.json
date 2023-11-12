@@ -1,23 +1,32 @@
 {
-    "Tests":{
-        "test1":[
-            {
-                "TestLabel":"asds34+=",
-                "version":"1.0.0",
-                "minAppVersion":"1.0.0",
-                "path":"test1",
-                "icon":"as.jpg"
-            },
-        ],
-        "test6":[
-            {
-                "TestLabel":"asds34+=",
-                "version":"1.0.0",
-                "minAppVersion":"1.0.0",
-                "path":"test1",
-                "icon":"as.jpg"
-            }
-        ]
-    },
+    "Tests":
+    [
+        {
+            "TestName":"asds34+=",
+            "versions": [
+                {
+                    "Version":"1.0.0",
+                    "MinAppVersion":"1.0.0",
+                    "Path":"test1",
+                    "Icon":"as.jpg",
+                    "LabelTextColor":"#000000",
+                    "TestBackground":"#ffffff",
+                },
+            ]
+        },
+        {
+            "TestName":"test2",
+            "versions": [
+                {
+                    "Version":"1.0.0",
+                    "MinAppVersion":"1.0.0",
+                    "Path":"test2",
+                    "Icon":"ass.jpg",
+                    "LabelTextColor":"#000000",
+                    "TestBackground":"#ffffff",
+                },
+            ]
+        }
+    ],
     "IconePath":"icons/",
 }
