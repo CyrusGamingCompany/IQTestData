@@ -26,7 +26,20 @@
                     "TestBackground":"#ffffff",
                 },
             ]
-        }
+        },
+        {
+            "TestName":"test3",
+            "versions": [
+                {
+                    "Version":"1.0.0",
+                    "MinAppVersion":"1.0.0",
+                    "Path":"test3",
+                    "Icon":"as.png",
+                    "LabelTextColor":"#000000",
+                    "TestBackground":"#ffffff",
+                },
+            ]
+        },
     ],
     "IconPath":"icons/",
 }
