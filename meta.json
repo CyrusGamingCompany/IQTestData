@@ -9,8 +9,8 @@
                     "MinAppVersion":"1.0",
                     "Path":"test1",
                     "IconPath":"as.png",
-                    "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff",
+                    "LabelTextColor":"#ed9434",
+                    "LabelBackgroundColor":"#4287f5",
                 },
             ]
         },
