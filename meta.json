@@ -2,7 +2,7 @@
     "Tests":
     [
         {
-            "TestName":"asds34+=",
+            "TestLabel":"test1Label",
             "Versions": [
                 {
                     "Version":"1.0",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "TestName":"test22",
+            "TestLabel":"test22Label",
             "Versions": [
                 {
                     "Version":"1.0",
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "TestName":"test3",
+            "TestLabel":"test3Label",
             "Versions": [
                 {
                     "Version":"1.0",

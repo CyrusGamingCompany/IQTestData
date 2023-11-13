@@ -1,15 +1,5 @@
 ﻿{
-  "TestName": "test4",
-  "Version": "1.0.0",
   "TestDescription": "dsfsd sdfsdf sdfsdf  dsfsd",
-  "IconPath": "iq2.png",
-  "LabelBackground": {
-    "Type": "color",
-    "Value": "#f58442"
-  },
-  "LabelTextColor": {
-    "Value": "#1f1a18"
-  },
   "TestBackground": {
     "Type": "color",
     "Value": "#f2cdb8"

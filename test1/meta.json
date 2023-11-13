@@ -1,15 +1,5 @@
 {
-    "TestName": "test3",
-    "Version": "1.0.0",
     "TestDescription": "asdasd asdasd asdasds asdasd asdas dasd",
-    "IconPath": "iq.png",
-    "LabelBackground": {
-      "Type": "color",
-      "Value": "#fcba03"
-    },
-    "LabelTextColor": {
-      "Value": "#302f2c"
-    },
     "TestBackground": {
       "Type": "color",
       "Value": "#70c0cc"
