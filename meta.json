@@ -18,9 +18,9 @@
             "TestLabel":"test22Label",
             "Versions": [
                 {
-                    "Version":"1.0",
+                    "Version":"1.1",
                     "MinAppVersion":"1.0",
-                    "Path":"test22",
+                    "Path":"test6",
                     "IconPath":"as.png",
                     "LabelTextColor":"#000000",
                     "LabelBackgroundColor":"#ffffff"
