@@ -18,7 +18,7 @@
             "TestLabel":"test1Label",
             "Versions": [
                 {
-                    "Version":"1.0",
+                    "Version":"1.1",
                     "MinAppVersion":"1.0",
                     "Path":"test1",
                     "IconPath":"as.png",
