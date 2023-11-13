@@ -10,8 +10,8 @@
                     "Path":"test1",
                     "IconPath":"as.png",
                     "LabelTextColor":"#ed9434",
-                    "LabelBackgroundColor":"#4287f5",
-                },
+                    "LabelBackgroundColor":"#4287f5"
+                }
             ]
         },
         {
@@ -23,8 +23,8 @@
                     "Path":"test22",
                     "IconPath":"as.png",
                     "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff",
-                },
+                    "LabelBackgroundColor":"#ffffff"
+                }
             ]
         },
         {
@@ -36,10 +36,18 @@
                     "Path":"test3",
                     "IconPath":"as.png",
                     "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff",
+                    "LabelBackgroundColor":"#ffffff"
                 },
+                {
+                    "Version":"1.5",
+                    "MinAppVersion":"1.0",
+                    "Path":"test3",
+                    "IconPath":"as2.jpg",
+                    "LabelTextColor":"#000000",
+                    "LabelBackgroundColor":"#ffffff"
+                }
             ]
-        },
+        }
     ],
-    "IconPath":"icons/",
+    "IconPath":"icons/"
 }
