@@ -3,7 +3,7 @@
     [
         {
             "TestName":"asds34+=",
-            "versions": [
+            "Versions": [
                 {
                     "Version":"1.0",
                     "MinAppVersion":"1.0",
@@ -16,7 +16,7 @@
         },
         {
             "TestName":"test22",
-            "versions": [
+            "Versions": [
                 {
                     "Version":"1.0",
                     "MinAppVersion":"1.0",
@@ -29,7 +29,7 @@
         },
         {
             "TestName":"test3",
-            "versions": [
+            "Versions": [
                 {
                     "Version":"1.0",
                     "MinAppVersion":"1.0",
