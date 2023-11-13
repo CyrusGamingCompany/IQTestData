@@ -15,12 +15,12 @@
             ]
         },
         {
-            "TestName":"test2",
+            "TestName":"test22",
             "versions": [
                 {
                     "Version":"1.0.0",
                     "MinAppVersion":"1.0.0",
-                    "Path":"test2",
+                    "Path":"test22",
                     "Icon":"as.png",
                     "LabelTextColor":"#000000",
                     "TestBackground":"#ffffff",
