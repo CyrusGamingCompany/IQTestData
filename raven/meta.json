@@ -20,6 +20,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q1A1.jpg"
           },
@@ -59,6 +63,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q2A1.jpg"
@@ -100,6 +108,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q3A1.jpg"
           },
@@ -140,6 +152,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q4A1.jpg"
           },
@@ -179,6 +195,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q5A1.jpg"
@@ -224,6 +244,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q6A1.jpg"
           },
@@ -263,6 +287,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q7A1.jpg"
@@ -304,6 +332,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q8A1.jpg"
           },
@@ -343,6 +375,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q9A1.jpg"
@@ -384,6 +420,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q10A1.jpg"
           },
@@ -423,6 +463,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q11A1.jpg"
@@ -464,6 +508,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q12A1.jpg"
           },
@@ -503,6 +551,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q13A1.jpg"
@@ -544,6 +596,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q14A1.jpg"
           },
@@ -584,6 +640,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q15A1.jpg"
           },
@@ -623,6 +683,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q16A1.jpg"
@@ -672,6 +736,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q17A1.jpg"
           },
@@ -719,6 +787,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q18A1.jpg"
@@ -768,6 +840,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q19A1.jpg"
           },
@@ -815,6 +891,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q20A1.jpg"
@@ -864,6 +944,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q21A1.jpg"
           },
@@ -911,6 +995,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q22A1.jpg"
@@ -960,6 +1048,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q23A1.jpg"
           },
@@ -1007,6 +1099,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q24A1.jpg"
@@ -1056,6 +1152,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q25A1.jpg"
           },
@@ -1103,6 +1203,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q26A1.jpg"
@@ -1152,6 +1256,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q27A1.jpg"
           },
@@ -1199,6 +1307,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q28A1.jpg"
@@ -1248,6 +1360,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q29A1.jpg"
           },
@@ -1295,6 +1411,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q40A1.jpg"
@@ -1344,6 +1464,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q41A1.jpg"
           },
@@ -1391,6 +1515,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q42A1.jpg"
@@ -1440,6 +1568,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q43A1.jpg"
           },
@@ -1487,6 +1619,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q44A1.jpg"
@@ -1536,6 +1672,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q45A1.jpg"
           },
@@ -1583,6 +1723,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q46A1.jpg"
@@ -1632,6 +1776,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q47A1.jpg"
           },
@@ -1679,6 +1827,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q48A1.jpg"
@@ -1728,6 +1880,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q49A1.jpg"
           },
@@ -1775,6 +1931,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q50A1.jpg"
@@ -1824,6 +1984,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q51A1.jpg"
           },
@@ -1871,6 +2035,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q52A1.jpg"
@@ -1920,6 +2088,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q53A1.jpg"
           },
@@ -1967,6 +2139,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q54A1.jpg"
@@ -2016,6 +2192,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q55A1.jpg"
           },
@@ -2063,6 +2243,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q56A1.jpg"
@@ -2112,6 +2296,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q57A1.jpg"
           },
@@ -2159,6 +2347,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q58A1.jpg"
@@ -2208,6 +2400,10 @@
         ],
         "Answers": [
           {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
+          {
             "Type": "Image",
             "Value": "T1Q59A1.jpg"
           },
@@ -2255,6 +2451,10 @@
           }
         ],
         "Answers": [
+          {
+            "Type": "Description",
+            "Value": "Choose one of the following options"
+          },
           {
             "Type": "Image",
             "Value": "T1Q60A1.jpg"
