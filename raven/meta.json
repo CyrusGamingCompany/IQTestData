@@ -14,7 +14,7 @@
             "Value": "T1Q1.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -58,7 +58,7 @@
             "Value": "T1Q2.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -102,7 +102,7 @@
             "Value": "T1Q3.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -146,7 +146,7 @@
             "Value": "T1Q4.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -190,7 +190,7 @@
             "Value": "T1Q5.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -238,7 +238,7 @@
             "Value": "T1Q6.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -282,7 +282,7 @@
             "Value": "T1Q7.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -326,7 +326,7 @@
             "Value": "T1Q8.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -370,7 +370,7 @@
             "Value": "T1Q9.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -414,7 +414,7 @@
             "Value": "T1Q10.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -458,7 +458,7 @@
             "Value": "T1Q11.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -502,7 +502,7 @@
             "Value": "T1Q12.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -546,7 +546,7 @@
             "Value": "T1Q13.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -590,7 +590,7 @@
             "Value": "T1Q14.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -634,7 +634,7 @@
             "Value": "T1Q15.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -678,7 +678,7 @@
             "Value": "T1Q16.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -730,7 +730,7 @@
             "Value": "T1Q17.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -782,7 +782,7 @@
             "Value": "T1Q18.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -834,7 +834,7 @@
             "Value": "T1Q19.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -886,7 +886,7 @@
             "Value": "T1Q20.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -938,7 +938,7 @@
             "Value": "T1Q21.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -990,7 +990,7 @@
             "Value": "T1Q22.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1042,7 +1042,7 @@
             "Value": "T1Q23.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1094,7 +1094,7 @@
             "Value": "T1Q24.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1146,7 +1146,7 @@
             "Value": "T1Q25.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1198,7 +1198,7 @@
             "Value": "T1Q26.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1250,7 +1250,7 @@
             "Value": "T1Q27.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1302,7 +1302,7 @@
             "Value": "T1Q28.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1354,7 +1354,7 @@
             "Value": "T1Q29.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1406,7 +1406,7 @@
             "Value": "T1Q40.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1458,7 +1458,7 @@
             "Value": "T1Q41.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1510,7 +1510,7 @@
             "Value": "T1Q42.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1562,7 +1562,7 @@
             "Value": "T1Q43.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1614,7 +1614,7 @@
             "Value": "T1Q44.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1666,7 +1666,7 @@
             "Value": "T1Q45.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1718,7 +1718,7 @@
             "Value": "T1Q46.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1770,7 +1770,7 @@
             "Value": "T1Q47.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1822,7 +1822,7 @@
             "Value": "T1Q48.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1874,7 +1874,7 @@
             "Value": "T1Q49.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1926,7 +1926,7 @@
             "Value": "T1Q50.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -1978,7 +1978,7 @@
             "Value": "T1Q51.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2030,7 +2030,7 @@
             "Value": "T1Q52.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2082,7 +2082,7 @@
             "Value": "T1Q53.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2134,7 +2134,7 @@
             "Value": "T1Q54.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2186,7 +2186,7 @@
             "Value": "T1Q55.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2238,7 +2238,7 @@
             "Value": "T1Q56.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2290,7 +2290,7 @@
             "Value": "T1Q57.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2342,7 +2342,7 @@
             "Value": "T1Q58.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2394,7 +2394,7 @@
             "Value": "T1Q59.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
@@ -2446,7 +2446,7 @@
             "Value": "T1Q60.jpg"
           },
           {
-            "Type": "Text",
+            "Type": "Description",
             "Value": "Complete the image with one of the options."
           }
         ],
