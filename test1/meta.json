@@ -7,10 +7,13 @@
     "TestTime": 10,
     "Queries": [
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your name?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your name?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
@@ -24,10 +27,13 @@
         "CorrectAnswer": 0
       },
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your age?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your age?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
@@ -41,10 +47,13 @@
         "CorrectAnswer": 1
       },
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your name?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your name?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
@@ -58,10 +67,13 @@
         "CorrectAnswer": 0
       },
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your age?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your age?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
@@ -75,10 +87,13 @@
         "CorrectAnswer": 1
       },
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your name?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your name?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
@@ -92,10 +107,13 @@
         "CorrectAnswer": 0
       },
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your age?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your age?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
@@ -109,10 +127,13 @@
         "CorrectAnswer": 1
       },
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your name?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your name?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
@@ -126,10 +147,13 @@
         "CorrectAnswer": 0
       },
       {
-        "Question": {
-          "Type": "Text",
-          "Value": "What is your age?"
-        },
+        "Question": 
+        [
+          {
+            "Type": "Text",
+            "Value": "What is your age?"
+          },
+        ],
         "Answers": [
           {
             "Type": "Text",
