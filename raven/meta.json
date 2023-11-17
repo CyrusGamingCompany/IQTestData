@@ -8,24 +8,16 @@
     "Queries": [
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q1.jpg"
+            "Value": "T1Q1.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
           {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
-          {
             "Type": "Image",
-            "Value": "T1Q1A1.jpg"
+            "Value": "T1Q1A1.jpg",
           },
           {
             "Type": "Image",
@@ -52,21 +44,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q2.jpg"
+            "Value": "T1Q2.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q2A1.jpg"
@@ -96,21 +80,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q3.jpg"
+            "Value": "T1Q3.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q3A1.jpg"
@@ -140,21 +116,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q4.jpg"
+            "Value": "T1Q4.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q4A1.jpg"
@@ -184,21 +152,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q5.jpg"
+            "Value": "T1Q5.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q5A1.jpg"
@@ -232,21 +192,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q6.jpg"
+            "Value": "T1Q6.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q6A1.jpg"
@@ -276,21 +228,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q7.jpg"
+            "Value": "T1Q7.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q7A1.jpg"
@@ -320,21 +264,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q8.jpg"
+            "Value": "T1Q8.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q8A1.jpg"
@@ -364,21 +300,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q9.jpg"
+            "Value": "T1Q9.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q9A1.jpg"
@@ -408,21 +336,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q10.jpg"
+            "Value": "T1Q10.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q10A1.jpg"
@@ -452,21 +372,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q11.jpg"
+            "Value": "T1Q11.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q11A1.jpg"
@@ -496,21 +408,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q12.jpg"
+            "Value": "T1Q12.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q12A1.jpg"
@@ -540,21 +444,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q13.jpg"
+            "Value": "T1Q13.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q13A1.jpg"
@@ -584,21 +480,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q14.jpg"
+            "Value": "T1Q14.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q14A1.jpg"
@@ -628,21 +516,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q15.jpg"
+            "Value": "T1Q15.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q15A1.jpg"
@@ -672,21 +552,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q16.jpg"
+            "Value": "T1Q16.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q16A1.jpg"
@@ -724,21 +596,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q17.jpg"
+            "Value": "T1Q17.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q17A1.jpg"
@@ -776,21 +640,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q18.jpg"
+            "Value": "T1Q18.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q18A1.jpg"
@@ -828,21 +684,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q19.jpg"
+            "Value": "T1Q19.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q19A1.jpg"
@@ -880,21 +728,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q20.jpg"
+            "Value": "T1Q20.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q20A1.jpg"
@@ -932,21 +772,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q21.jpg"
+            "Value": "T1Q21.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q21A1.jpg"
@@ -984,21 +816,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q22.jpg"
+            "Value": "T1Q22.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q22A1.jpg"
@@ -1036,21 +860,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q23.jpg"
+            "Value": "T1Q23.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q23A1.jpg"
@@ -1088,21 +904,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q24.jpg"
+            "Value": "T1Q24.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q24A1.jpg"
@@ -1140,21 +948,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q25.jpg"
+            "Value": "T1Q25.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q25A1.jpg"
@@ -1192,21 +992,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q26.jpg"
+            "Value": "T1Q26.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q26A1.jpg"
@@ -1244,21 +1036,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q27.jpg"
+            "Value": "T1Q27.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q27A1.jpg"
@@ -1296,21 +1080,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q28.jpg"
+            "Value": "T1Q28.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q28A1.jpg"
@@ -1348,21 +1124,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q29.jpg"
+            "Value": "T1Q29.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q29A1.jpg"
@@ -1400,21 +1168,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q40.jpg"
+            "Value": "T1Q40.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q40A1.jpg"
@@ -1452,21 +1212,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q41.jpg"
+            "Value": "T1Q41.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q41A1.jpg"
@@ -1504,21 +1256,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q42.jpg"
+            "Value": "T1Q42.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q42A1.jpg"
@@ -1556,21 +1300,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q43.jpg"
+            "Value": "T1Q43.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q43A1.jpg"
@@ -1608,21 +1344,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q44.jpg"
+            "Value": "T1Q44.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q44A1.jpg"
@@ -1660,21 +1388,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q45.jpg"
+            "Value": "T1Q45.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q45A1.jpg"
@@ -1712,21 +1432,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q46.jpg"
+            "Value": "T1Q46.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q46A1.jpg"
@@ -1764,21 +1476,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q47.jpg"
+            "Value": "T1Q47.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q47A1.jpg"
@@ -1816,21 +1520,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q48.jpg"
+            "Value": "T1Q48.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q48A1.jpg"
@@ -1868,21 +1564,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q49.jpg"
+            "Value": "T1Q49.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q49A1.jpg"
@@ -1920,21 +1608,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q50.jpg"
+            "Value": "T1Q50.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q50A1.jpg"
@@ -1972,21 +1652,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q51.jpg"
+            "Value": "T1Q51.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q51A1.jpg"
@@ -2024,21 +1696,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q52.jpg"
+            "Value": "T1Q52.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q52A1.jpg"
@@ -2076,21 +1740,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q53.jpg"
+            "Value": "T1Q53.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q53A1.jpg"
@@ -2128,21 +1784,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q54.jpg"
+            "Value": "T1Q54.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q54A1.jpg"
@@ -2180,21 +1828,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q55.jpg"
+            "Value": "T1Q55.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q55A1.jpg"
@@ -2232,21 +1872,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q56.jpg"
+            "Value": "T1Q56.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q56A1.jpg"
@@ -2284,21 +1916,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q57.jpg"
+            "Value": "T1Q57.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q57A1.jpg"
@@ -2336,21 +1960,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q58.jpg"
+            "Value": "T1Q58.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q58A1.jpg"
@@ -2388,21 +2004,13 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q59.jpg"
+            "Value": "T1Q59.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q59A1.jpg"
@@ -2440,21 +2048,13 @@
       },      
       {
         "Question": 
-        [
           {
             "Type": "Image",
-            "Value": "T1Q60.jpg"
+            "Value": "T1Q60.jpg",
+            "QuestionDescription": "Which option compeletes the image?",
+            "AnswerDescription": "Choose one of the following images:"
           },
-          {
-            "Type": "Description",
-            "Value": "Complete the image with one of the options."
-          }
-        ],
         "Answers": [
-          {
-            "Type": "Description",
-            "Value": "Choose one of the following options"
-          },
           {
             "Type": "Image",
             "Value": "T1Q60A1.jpg"
