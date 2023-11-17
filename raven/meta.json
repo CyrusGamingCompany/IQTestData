@@ -5,6 +5,11 @@
       "Value": "#FFFFFF"
     },
     "TestTime": 3600,
+    "Price":{
+      "Type": "Advertise",
+      "Value": "1"
+    },
+    "SavePosibility": true,
     "Queries": [
       {
         "Question": 
@@ -48,7 +53,9 @@
             "Type": "Image",
             "Value": "T1Q2.jpg",
             "QuestionDescription": "Which option compeletes the image?",
-            "AnswerDescription": "Choose one of the following images:"
+            "AnswerDescription": "Choose one of the following images:",
+            "TestNote": "This is a test note for the question!",
+            "CheckNote": "This is a check note for the question!"
           },
         "Answers": [
           {
