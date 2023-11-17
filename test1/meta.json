@@ -8,12 +8,12 @@
     "Queries": [
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your name?"
+            "Value": "What is your name?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
@@ -28,12 +28,12 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your age?"
+            "Value": "What is your age?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
@@ -48,12 +48,12 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your name?"
+            "Value": "What is your name?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
@@ -68,12 +68,12 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your age?"
+            "Value": "What is your age?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
@@ -88,12 +88,12 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your name?"
+            "Value": "What is your name?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
@@ -108,12 +108,12 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your age?"
+            "Value": "What is your age?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
@@ -128,12 +128,12 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your name?"
+            "Value": "What is your name?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
@@ -148,12 +148,12 @@
       },
       {
         "Question": 
-        [
           {
             "Type": "Text",
-            "Value": "What is your age?"
+            "Value": "What is your age?",
+            "QuestionDescription": "",
+            "AnswerDescription": ""
           },
-        ],
         "Answers": [
           {
             "Type": "Text",
