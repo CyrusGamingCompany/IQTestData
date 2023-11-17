@@ -11,6 +11,7 @@
     },
     "SavePossibility": true,
     "FinalImage": "T1F.jpg",
+    "CheckPossibility": true,
     "Queries": [
       {
         "Question": 
