@@ -5,7 +5,7 @@
             "TestLabel":"Raven",
             "Versions": [
                 {
-                    "Version":"2.1",
+                    "Version":"2.2",
                     "MinAppVersion":"1.0",
                     "Path":"raven",
                     "IconPath":"as.png",
@@ -18,7 +18,7 @@
             "TestLabel":"test1Label",
             "Versions": [
                 {
-                    "Version":"1.1",
+                    "Version":"2.2",
                     "MinAppVersion":"1.0",
                     "Path":"test1",
                     "IconPath":"as.png",

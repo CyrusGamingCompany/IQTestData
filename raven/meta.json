@@ -40,7 +40,7 @@
             "Value": "T1Q1A6.jpg"
           },
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 3
       },
       {
         "Question": 
@@ -76,7 +76,7 @@
             "Value": "T1Q2A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 4
       },
       {
         "Question": 
@@ -112,7 +112,7 @@
             "Value": "T1Q3A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -148,7 +148,7 @@
             "Value": "T1Q4A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -188,7 +188,7 @@
             "Value": "T1Q5A7.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -224,7 +224,7 @@
             "Value": "T1Q6A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -260,7 +260,7 @@
             "Value": "T1Q7A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -296,7 +296,7 @@
             "Value": "T1Q8A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -368,7 +368,7 @@
             "Value": "T1Q10A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -404,7 +404,7 @@
             "Value": "T1Q11A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 3
       },
       {
         "Question": 
@@ -440,7 +440,7 @@
             "Value": "T1Q12A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 4
       },
       {
         "Question": 
@@ -476,7 +476,7 @@
             "Value": "T1Q13A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -512,7 +512,7 @@
             "Value": "T1Q14A6.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -592,7 +592,7 @@
             "Value": "T1Q16A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -680,7 +680,7 @@
             "Value": "T1Q18A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -724,7 +724,7 @@
             "Value": "T1Q19A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 4
       },
       {
         "Question": 
@@ -761,14 +761,10 @@
           },
           {
             "Type": "Image",
-            "Value": "T1Q20A7.jpg"
-          },
-          {
-            "Type": "Image",
             "Value": "T1Q20A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -812,7 +808,7 @@
             "Value": "T1Q21A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 3
       },
       {
         "Question": 
@@ -856,7 +852,7 @@
             "Value": "T1Q22A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -900,7 +896,7 @@
             "Value": "T1Q23A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 3
       },
       {
         "Question": 
@@ -944,7 +940,7 @@
             "Value": "T1Q24A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 4
       },
       {
         "Question": 
@@ -988,7 +984,7 @@
             "Value": "T1Q25A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 7
       },
       {
         "Question": 
@@ -1032,7 +1028,7 @@
             "Value": "T1Q26A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -1076,7 +1072,7 @@
             "Value": "T1Q27A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -1120,7 +1116,7 @@
             "Value": "T1Q28A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 7
       },
       {
         "Question": 
@@ -1164,7 +1160,7 @@
             "Value": "T1Q29A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 6
       },
       {
         "Question": 
@@ -1208,7 +1204,7 @@
             "Value": "T1Q40A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 6
       },
       {
         "Question": 
@@ -1252,7 +1248,7 @@
             "Value": "T1Q41A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 7
       },
       {
         "Question": 
@@ -1296,7 +1292,7 @@
             "Value": "T1Q42A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -1340,7 +1336,7 @@
             "Value": "T1Q43A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 4
       },
       {
         "Question": 
@@ -1384,7 +1380,7 @@
             "Value": "T1Q44A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 3
       },
       {
         "Question": 
@@ -1472,7 +1468,7 @@
             "Value": "T1Q46A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -1516,7 +1512,7 @@
             "Value": "T1Q47A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -1560,7 +1556,7 @@
             "Value": "T1Q48A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -1604,7 +1600,7 @@
             "Value": "T1Q49A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 6
       },
       {
         "Question": 
@@ -1648,7 +1644,7 @@
             "Value": "T1Q50A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -1692,7 +1688,7 @@
             "Value": "T1Q51A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 7
       },
       {
         "Question": 
@@ -1736,7 +1732,7 @@
             "Value": "T1Q52A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -1824,7 +1820,7 @@
             "Value": "T1Q54A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -1912,7 +1908,7 @@
             "Value": "T1Q56A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 5
       },
       {
         "Question": 
@@ -1956,7 +1952,7 @@
             "Value": "T1Q57A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 2
       },
       {
         "Question": 
@@ -2000,7 +1996,7 @@
             "Value": "T1Q58A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
@@ -2044,7 +2040,7 @@
             "Value": "T1Q59A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 3
       },      
       {
         "Question": 
@@ -2088,7 +2084,7 @@
             "Value": "T1Q60A8.jpg"
           }
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 4
       },
     ]
   }
