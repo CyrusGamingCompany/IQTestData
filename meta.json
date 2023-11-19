@@ -52,6 +52,19 @@
                     "LabelBackgroundColor":"#171F67"
                 }
             ]
+        },
+        {
+            "TestLabel":"Mars",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"mars",
+                    "IconPath":"mars.png",
+                    "LabelTextColor":"#E2FAED",
+                    "LabelBackgroundColor":"#112820"
+                }
+            ]
         }
     ],
     "IconPath":"icons/"
