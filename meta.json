@@ -9,8 +9,8 @@
                     "MinAppVersion":"1.0",
                     "Path":"raven",
                     "IconPath":"raven.png",
-                    "LabelTextColor":"#ed9434",
-                    "LabelBackgroundColor":"#4287f5"
+                    "LabelTextColor":"#FC377E",
+                    "LabelBackgroundColor":"#E7D1B9"
                 }
             ]
         }
