@@ -39,6 +39,19 @@
                     "LabelBackgroundColor":"#66300f"
                 }
             ]
+        },
+        {
+            "TestLabel":"Number Sequence A",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"sqnumbers1",
+                    "IconPath":"sqnumbers1.png",
+                    "LabelTextColor":"#FFE6D4",
+                    "LabelBackgroundColor":"#171F67"
+                }
+            ]
         }
     ],
     "IconPath":"icons/"
