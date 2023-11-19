@@ -9,21 +9,34 @@
                     "MinAppVersion":"1.0",
                     "Path":"raven",
                     "IconPath":"raven.png",
-                    "LabelTextColor":"#FC377E",
-                    "LabelBackgroundColor":"#E7D1B9"
+                    "LabelTextColor":"#fbc8d6",
+                    "LabelBackgroundColor":"#430c19"
                 }
             ]
         },
         {
-            "TestLabel":"Short Raven",
+            "TestLabel":"Short Raven A",
             "Versions": [
                 {
                     "Version":"1.0",
                     "MinAppVersion":"1.0",
-                    "Path":"shortraven",
-                    "IconPath":"shortraven.png",
-                    "LabelTextColor":"#FC377E",
-                    "LabelBackgroundColor":"#E7D1B9"
+                    "Path":"shortraven1",
+                    "IconPath":"shortraven1.png",
+                    "LabelTextColor":"#accefa",
+                    "LabelBackgroundColor":"#252d45"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Short Raven B",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"shortraven2",
+                    "IconPath":"shortraven2.png",
+                    "LabelTextColor":"#fbfe96",
+                    "LabelBackgroundColor":"#66300f"
                 }
             ]
         }
