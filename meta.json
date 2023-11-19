@@ -5,59 +5,12 @@
             "TestLabel":"Raven",
             "Versions": [
                 {
-                    "Version":"2.4",
-                    "MinAppVersion":"1.0",
-                    "Path":"raven",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#ed9434",
-                    "LabelBackgroundColor":"#4287f5"
-                }
-            ]
-        },
-        {
-            "TestLabel":"test1Label",
-            "Versions": [
-                {
-                    "Version":"2.3",
-                    "MinAppVersion":"1.0",
-                    "Path":"test1",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#ed9434",
-                    "LabelBackgroundColor":"#4287f5"
-                }
-            ]
-        },
-        {
-            "TestLabel":"test22Label",
-            "Versions": [
-                {
-                    "Version":"1.1",
-                    "MinAppVersion":"1.0",
-                    "Path":"test6",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff"
-                }
-            ]
-        },
-        {
-            "TestLabel":"test3Label",
-            "Versions": [
-                {
                     "Version":"1.0",
                     "MinAppVersion":"1.0",
-                    "Path":"test3",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff"
-                },
-                {
-                    "Version":"1.5",
-                    "MinAppVersion":"1.0",
-                    "Path":"test3",
-                    "IconPath":"as2.jpg",
-                    "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff"
+                    "Path":"raven",
+                    "IconPath":"raven.png",
+                    "LabelTextColor":"#ed9434",
+                    "LabelBackgroundColor":"#4287f5"
                 }
             ]
         }
