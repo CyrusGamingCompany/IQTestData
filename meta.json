@@ -13,6 +13,19 @@
                     "LabelBackgroundColor":"#E7D1B9"
                 }
             ]
+        },
+        {
+            "TestLabel":"Short Raven",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"shortraven",
+                    "IconPath":"shortraven.png",
+                    "LabelTextColor":"#FC377E",
+                    "LabelBackgroundColor":"#E7D1B9"
+                }
+            ]
         }
     ],
     "IconPath":"icons/"
