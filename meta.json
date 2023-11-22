@@ -8,56 +8,61 @@
                     "Version":"2.5",
                     "MinAppVersion":"1.0",
                     "Path":"raven",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#ed9434",
-                    "LabelBackgroundColor":"#4287f5"
+                    "IconPath":"raven.png",
+                    "LabelTextColor":"#fbc8d6",
+                    "LabelBackgroundColor":"#430c19"
                 }
             ]
         },
         {
-            "TestLabel":"test1Label",
-            "Versions": [
-                {
-                    "Version":"2.3",
-                    "MinAppVersion":"1.0",
-                    "Path":"test1",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#ed9434",
-                    "LabelBackgroundColor":"#4287f5"
-                }
-            ]
-        },
-        {
-            "TestLabel":"test22Label",
-            "Versions": [
-                {
-                    "Version":"1.1",
-                    "MinAppVersion":"1.0",
-                    "Path":"test6",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff"
-                }
-            ]
-        },
-        {
-            "TestLabel":"test3Label",
+            "TestLabel":"Short Raven A",
             "Versions": [
                 {
                     "Version":"1.0",
                     "MinAppVersion":"1.0",
-                    "Path":"test3",
-                    "IconPath":"as.png",
-                    "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff"
-                },
+                    "Path":"shortraven1",
+                    "IconPath":"shortraven1.png",
+                    "LabelTextColor":"#accefa",
+                    "LabelBackgroundColor":"#252d45"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Short Raven B",
+            "Versions": [
                 {
-                    "Version":"1.5",
+                    "Version":"1.0",
                     "MinAppVersion":"1.0",
-                    "Path":"test3",
-                    "IconPath":"as2.jpg",
-                    "LabelTextColor":"#000000",
-                    "LabelBackgroundColor":"#ffffff"
+                    "Path":"shortraven2",
+                    "IconPath":"shortraven2.png",
+                    "LabelTextColor":"#fbfe96",
+                    "LabelBackgroundColor":"#66300f"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Number Sequence A",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"sqnumbers1",
+                    "IconPath":"sqnumbers1.png",
+                    "LabelTextColor":"#FFE6D4",
+                    "LabelBackgroundColor":"#171F67"
+                }
+            ]
+        },
+        {
+            "TestLabel":"Mars",
+            "Versions": [
+                {
+                    "Version":"1.0",
+                    "MinAppVersion":"1.0",
+                    "Path":"mars",
+                    "IconPath":"mars.png",
+                    "LabelTextColor":"#E2FAED",
+                    "LabelBackgroundColor":"#112820"
                 }
             ]
         }
