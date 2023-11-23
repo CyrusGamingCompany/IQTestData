@@ -18,7 +18,7 @@
           {
             "Type": "Image",
             "Value": "q1.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which number should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -54,7 +54,7 @@
           {
             "Type": "Image",
             "Value": "q2.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which number should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:",
             "TestNote": "This is a test note for the question!",
             "CheckNote": "This is a check note for the question!"
@@ -92,7 +92,7 @@
           {
             "Type": "Image",
             "Value": "q3.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which number should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
           "Answers": [
@@ -128,7 +128,7 @@
           {
             "Type": "Image",
             "Value": "q4.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which picture is not consistent with others?",
             "AnswerDescription": "Choose one of the following images:"
           },
           "Answers": [
@@ -164,7 +164,7 @@
           {
             "Type": "Image",
             "Value": "q5.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which formulation is not correct?",
             "AnswerDescription": "Choose one of the following images:"
           },
           "Answers": [
@@ -181,14 +181,14 @@
               "Value": "3"
             }
           ],
-        "CorrectAnswer": 5
+        "CorrectAnswer": 1
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q6.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which formulation is not correct?",
             "AnswerDescription": "Choose one of the following images:"
           },
           "Answers": [
@@ -212,7 +212,7 @@
           {
             "Type": "Image",
             "Value": "q7.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which picture should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -241,14 +241,14 @@
             "Value": "q7a6.png"
           }
         ],
-        "CorrectAnswer": 5
+        "CorrectAnswer": 0
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q8.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which picture should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -277,14 +277,14 @@
             "Value": "q8a6.png"
           }
         ],
-        "CorrectAnswer": 1
+        "CorrectAnswer": 0
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q9.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": "Which character is not consistent with others?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -316,7 +316,7 @@
           {
             "Type": "Image",
             "Value": "q10.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture should be the last one?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -341,14 +341,14 @@
             "Value": "q10a5.png"
           }
         ],
-        "CorrectAnswer": 2
+        "CorrectAnswer": 3
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q11.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " How many triangles exist in the picture?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -384,7 +384,7 @@
           {
             "Type": "Image",
             "Value": "q12.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " How many rectangles exist in the picture?",
             "AnswerDescription": "Choose one of the following images:"
           },
           "Answers": [
@@ -420,7 +420,7 @@
           {
             "Type": "Image",
             "Value": "q13.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " How many rectangles exist in the picture?",
             "AnswerDescription": "Choose one of the following images:"
           },
           "Answers": [
@@ -456,7 +456,7 @@
           {
             "Type": "Image",
             "Value": "q14.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture is not consistent with others?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -477,14 +477,14 @@
             "Value": "q14a4.png"
           },
         ],
-        "CorrectAnswer": 5
+        "CorrectAnswer": 3
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q15.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -509,14 +509,14 @@
             "Value": "q15a5.png"
           },
         ],
-        "CorrectAnswer": 0
+        "CorrectAnswer": 1
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q16.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -545,14 +545,14 @@
             "Value": "q16a6.png"
           }
         ],
-        "CorrectAnswer": 1
+        "CorrectAnswer": 5
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q17.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -588,7 +588,7 @@
           {
             "Type": "Image",
             "Value": "q18.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -624,7 +624,7 @@
           {
             "Type": "Image",
             "Value": "q19.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture should be used instead of \"?\"?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -645,14 +645,14 @@
             "Value": "q19a4.png"
           }
         ],
-        "CorrectAnswer": 4
+        "CorrectAnswer": 2
       },
       {
         "Question": 
           {
             "Type": "Image",
             "Value": "q20.png",
-            "QuestionDescription": "Which option compeletes the image?",
+            "QuestionDescription": " Which picture is not consistent with others?",
             "AnswerDescription": "Choose one of the following images:"
           },
         "Answers": [
@@ -677,7 +677,7 @@
             "Value": "q20a5.png"
           }
         ],
-        "CorrectAnswer": 5
+        "CorrectAnswer": 3
       }
     ]
   }
