@@ -475,7 +475,7 @@
           {
             "Type": "Image",
             "Value": "q14a4.png"
-          },
+          }
         ],
         "CorrectAnswer": 3
       },
@@ -507,7 +507,7 @@
           {
             "Type": "Image",
             "Value": "q15a5.png"
-          },
+          }
         ],
         "CorrectAnswer": 1
       },
