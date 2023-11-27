@@ -45,7 +45,7 @@
           {
             "Type": "Image",
             "Value": "T1Q1A6.jpg"
-          },
+          }
         ],
         "CorrectAnswer": 3
       },
@@ -2466,6 +2466,6 @@
           }
         ],
         "CorrectAnswer": 4
-      },
+      }
     ]
   }
